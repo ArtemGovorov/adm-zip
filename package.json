@@ -14,7 +14,12 @@
         "email": "sy@another-d-mention.ro",
         "url": "https://github.com/cthackers/adm-zip/issues"
     },
-    "license": "MIT",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/cthackers/adm-zip/master/MIT-LICENSE.txt"
+        }
+    ],
     "files": [
         "adm-zip.js",
         "headers",
